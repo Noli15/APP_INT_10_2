@@ -1,0 +1,4 @@
+[fe80::a00:27ff:fe0c:33b2]
+ /etc/zabbix/apache.conf
+
+job for zabbix-server.service failed because the service did not take the steps required by its unit configuration. see "systemctl status zabbix-server.service" and "journalctl -xeu zabbix-server.service" for details.
